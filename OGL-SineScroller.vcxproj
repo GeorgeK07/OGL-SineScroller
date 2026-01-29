@@ -71,12 +71,12 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <IncludePath>C:\Users\***REMOVED***\VSLibraries\OpenGL\Include;C:\Users\***REMOVED***\source\repos\OpenGL-Demo\imgui;C:\Users\***REMOVED***\source\repos\OpenGL-Demo\imgui\backends;$(IncludePath)</IncludePath>
-    <LibraryPath>C:\Users\***REMOVED***\VSLibraries\OpenGL\Libs;$(LibraryPath)</LibraryPath>
+    <IncludePath>learnopengl-libs\Include;imgui;imgui\backends;$(IncludePath)</IncludePath>
+    <LibraryPath>learnopengl-libs\Libs;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
-    <IncludePath>C:\Users\***REMOVED***\VSLibraries\OpenGL\Include;C:\Users\***REMOVED***\source\repos\OpenGL-Demo\imgui;C:\Users\***REMOVED***\source\repos\OpenGL-Demo\imgui\backends;$(IncludePath)</IncludePath>
-    <LibraryPath>C:\Users\***REMOVED***\VSLibraries\OpenGL\Libs;$(LibraryPath)</LibraryPath>
+    <IncludePath>learnopengl-libs\Include;imgui;imgui\backends;$(IncludePath)</IncludePath>
+    <LibraryPath>learnopengl-libs\Libs;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Label="Vcpkg">
     <VcpkgEnableManifest>true</VcpkgEnableManifest>
