@@ -22,7 +22,8 @@ It will most likely work with newer or older versions, however, there may be som
 This program is licensed under the GNU GPL-3.0-or-later
 
 ## Credits
-Thanks to Learn OpenGL for their tutorials (https://learnopengl.com/)
+Thanks to Learn OpenGL for their tutorials (https://learnopengl.com/) \
+Font and music created by me, music uses ST-XX (https://archive.org/details/AmigaSoundtrackerSamplePacksst-xx) samples.
 
 ### imgui
 The MIT License (MIT)
@@ -161,3 +162,4 @@ The above copyright notice and this permission notice shall be included in all c
 Restrictions: By making use of the Software for military purposes, you choose to make a Bunny unhappy.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
