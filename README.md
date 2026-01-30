@@ -10,7 +10,7 @@ This program was built and tested with:
 
 It will most likely work with newer or older versions, however, there may be some breaking changes that cause it not to build or run. Requires code edits and a makefile to build on other operating systems or with GCC/Clang compilers. (Coming soon)
 
-Steps:
+### Steps
 1. Requires vcpkg to be installed for Visual Studio MSBuild. (https://learn.microsoft.com/en-us/vcpkg/get_started/get-started-msbuild)
 
 2. Use this command to clone the repository with all submodules.
@@ -24,8 +24,7 @@ This program is licensed under the GNU GPL-3.0-or-later
 ## Credits
 Thanks to Learn OpenGL for their tutorials (https://learnopengl.com/)
 
-imgui
-=====
+### imgui
 The MIT License (MIT)
 
 Copyright (c) 2014-2026 Omar Cornut
@@ -47,3 +46,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
