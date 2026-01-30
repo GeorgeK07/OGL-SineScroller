@@ -10,6 +10,14 @@ This program was built and tested with:
 
 It will most likely work with newer or older versions, however, there may be some breaking changes that cause it not to build or run. Requires code edits and a makefile to build on other operating systems or with GCC/Clang compilers. (Coming soon)
 
+Steps:
+1. Requires vcpkg to be installed for Visual Studio MSBuild. (https://learn.microsoft.com/en-us/vcpkg/get_started/get-started-msbuild)
+
+2. Use this command to clone the repository with all submodules.
+```git clone --recurse-submodules https://github.com/GeorgeK07/OGL-SineScroller.git```
+
+3. Click the build button (green play button) in Visual Studio and it will download dependencies and build the program.
+
 ## License
 This program is licensed under the GNU GPL-3.0-or-later
 
