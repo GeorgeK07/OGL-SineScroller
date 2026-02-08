@@ -7,6 +7,8 @@ https://github.com/user-attachments/assets/6ba69bae-6643-4274-bf3a-74645ae5331e
 This program was built and tested with:  
 * Windows 10 22H2
   * Visual Studio Community 2022 17.14.23
+* Windows 11 25H2
+  * Visual Studio Community 2026 18.2.1
 
 It will most likely work with newer or older versions, however, there may be some breaking changes that cause it not to build or run. Requires code edits and a makefile to build on other operating systems or with GCC/Clang compilers. (Coming soon)
 
@@ -162,4 +164,5 @@ The above copyright notice and this permission notice shall be included in all c
 Restrictions: By making use of the Software for military purposes, you choose to make a Bunny unhappy.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
 
