@@ -54,8 +54,8 @@ void framebuffer_size_callback(GLFWwindow* window, int width, int height) {
 	glViewport(0, 0, width, height);
 }
 
-// Main function
-int main() {
+// Main function (TESTING WinMain for no terminal, can probably do without)
+int APIENTRY WinMain(HINSTANCE hInst, HINSTANCE hInstPrev, PSTR cmdline, int cmdshow) {
 	// Initialise GLFW
 	glfwInit();
 	// Configure GLFW to use OpenGL 3.3 and core profile
